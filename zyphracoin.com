@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zyphra Coin (ZYPH)</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    background: radial-gradient(circle, #020617, #000);
+    color: white;
+    text-align: center;
+}
+
+/* HERO */
+.hero {
+    padding: 100px 20px;
+}
+
+h1 {
+    font-size: 60px;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* BUTTON */
+.btn {
+    padding: 15px 40px;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    display: inline-block;
+}
+
+/* SECTION */
+.section {
+    padding: 70px 20px;
+}
+
+/* CARD */
+.card {
+    background: #0f172a;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    display: inline-block;
+    width: 220px;
+}
+
+/* ROADMAP */
+.roadmap {
+    max-width: 600px;
+    margin: auto;
+    text-align: left;
+}
+
+.step {
+    background: #0f172a;
+    margin: 15px 0;
+    padding: 15px;
+    border-left: 4px solid #00c6ff;
+}
+
+/* FOOTER */
+footer {
+    padding: 20px;
+    color: #777;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="hero">
+    <h1>ZYPHRA COIN</h1>
+    <p>AI-Powered Future of Crypto</p>
+
+    <!-- BUY BUTTON -->
+    <a class="btn" href="https://raydium.io/swap/?outputMint=FS8Mbm3a4yckvcr89TYQ31vawvrewqSbeRPHtS3CAt1D" target="_blank">
+    Buy ZYPH
+    </a>
+
+</div>
+
+<!-- ABOUT -->
+<div class="section">
+    <h2>About</h2>
+    <p>
+    Zyphra Coin (ZYPH) is a next-generation AI-powered cryptocurrency built on a fast and scalable blockchain.
+    It combines decentralized finance with intelligent systems for the future.
+    </p>
+</div>
+
+<!-- TOKENOMICS -->
+<div class="section">
+    <h2>Tokenomics</h2>
+    <div class="card">Total Supply: 1B</div>
+    <div class="card">Liquidity: 40%</div>
+    <div class="card">Marketing: 20%</div>
+    <div class="card">Development: 20%</div>
+    <div class="card">Team: 10%</div>
+    <div class="card">Airdrop: 10%</div>
+</div>
+
+<!-- ROADMAP -->
+<div class="section">
+    <h2>Roadmap 2026</h2>
+    <div class="roadmap">
+        <div class="step">🚀 2026 – Project Launch</div>
+        <div class="step">📄 2026 – Whitepaper Release</div>
+        <div class="step">💧 2026 – Liquidity Added</div>
+        <div class="step">📈 2026 – DEX Listing</div>
+        <div class="step">🏦 2026 – CEX Listing Plan</div>
+    </div>
+</div>
+
+<!-- CHART -->
+<div class="section">
+    <h2>Live Chart</h2>
+    <iframe 
+        src="https://dexscreener.com/solana/FS8Mbm3a4yckvcr89TYQ31vawvrewqSbeRPHtS3CAt1D?embed=1"
+        width="100%" height="500" style="border:none;border-radius:15px;">
+    </iframe>
+</div>
+
+<!-- WHITEPAPER -->
+<div class="section">
+    <h2>Whitepaper</h2>
+    <p>
+    Zyphra Coin aims to integrate artificial intelligence with decentralized finance.
+    The project focuses on scalability, speed, and global adoption.
+    </p>
+</div>
+
+<footer>
+    <p>© 2026 Zyphra Coin</p>
+</footer>
+
+</body>
+</html>
